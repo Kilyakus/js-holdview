@@ -1,0 +1,15 @@
+{
+	"name": "@kilyakus/js-holdview",
+	"version": "1.26.3",
+	"description": "Is a lightweight and universal placeholder generator module designed for creating SVG-based media placeholders on the fly.",
+	"main": "js/holdview.min.js",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"license": "CC-BY-NC-4.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-holdview.git"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}
